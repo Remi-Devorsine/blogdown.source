@@ -34,4 +34,4 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+Hello, my name is Rémi Devorsine, i live in Maubeuge in France. I am a student at the University of Mons, and i want to be a teacher of biology later

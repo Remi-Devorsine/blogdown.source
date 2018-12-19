@@ -20,4 +20,4 @@ Science des données
 
 ## Le site internet
 
-Dans le cadre de ma deuxième année, je dois créer un site Web dans la matière Science des donées.
+Dans le cadre de ma deuxième année, je dois créer un site Web dans la matière Science des données.

@@ -27,7 +27,7 @@ weight = 3
 
 Remi Devorsine
 <br>
-<small>A short description of myself here</small>
+<small>I am student in the University of Mons, Hello</small>
 <br><br>
 
 <script type="text/javascript">
